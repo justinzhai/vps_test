@@ -14,7 +14,7 @@ android {
 
 //这里依次添加jnilibs目录下的文件夹名称
 
-            abiFilters"armeabi"
+            abiFilters "armeabi"
 
         }
     }
